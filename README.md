@@ -2,15 +2,14 @@
 
 ### Software Engineer | DevOps Engineer
 
-I'm a B.Tech Computer Science student and aspiring Software Engineer who enjoys building real-world web applications and solving programming problems.
+I'm a Computer Science student passionate about building scalable software
+and automating deployment workflows.
 
-- 💻 Building with **Java, JavaScript, React, Node.js & MongoDB**
-- 🚀 Interested in **Full-Stack Development & Cloud**
-- 🧠 Practicing **DSA, System Design & Core CS**
-- 🔨 Currently building and improving real-world projects
-- 📫 Open to **Internships & Software Engineering opportunities**
-
----
+- 💻 Building full-stack applications with JavaScript, React & Node.js
+- ☁️ Working with AWS, Docker, Kubernetes & CI/CD
+- 🧠 Practicing DSA, Core CS & System Design
+- 🚀 Interested in Software Engineering, Cloud & DevOps
+- 🔎 Open to Software Engineer & DevOps internship opportunities
 
 ## 🛠️ Tech Stack
 
