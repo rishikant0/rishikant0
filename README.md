@@ -51,17 +51,40 @@ Deployed a Django application on AWS EC2 using Docker and Nginx.
 
 ---
 
+
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishikant0&show_icons=true&theme=github_dark)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rishikant0&show_icons=true&theme=dark&hide_border=true"
+    alt="Rishikant's GitHub Stats"
+  />
+</p>
+
 
 ---
 
 
 
-🧠 LeetCode
+## 🧠 LeetCode Journey
 
-<p align="center"> <a href="https://leetcode.com/u/kumarrishikant660/"> <img src="https://leetcard.jacoblin.cool/kumarrishikant660?theme=dark&ext=heatmap" alt="LeetCode Stats" /> </a> </p>
+<p align="center">
+  <a href="https://leetcode.com/u/kumarrishikant660/">
+    <img src="https://leetcard.jacoblin.cool/kumarrishikant660?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/kumarrishikant660/">
+    <img src="https://img.shields.io/badge/LeetCode-View%20Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Consistently solving problems, improving DSA skills, and preparing for Software Engineering interviews 🚀</i>
+</p>
+
+
 
 ## 🔗 Connect With Me
 
