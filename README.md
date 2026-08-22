@@ -57,6 +57,12 @@ Deployed a Django application on AWS EC2 using Docker and Nginx.
 
 ---
 
+
+
+🧠 LeetCode
+
+<p align="center"> <a href="https://leetcode.com/u/kumarrishikant660/"> <img src="https://leetcard.jacoblin.cool/kumarrishikant660?theme=dark&ext=heatmap" alt="LeetCode Stats" /> </a> </p>
+
 ## 🔗 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/rishikant-kumar-aa7bb3314) •
