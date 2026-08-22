@@ -1,92 +1,154 @@
-# Hi, I'm Rishikant Kumar 👋
+# 👋 Hi, I'm Rishikant Kumar
 
-### Software Engineer | DevOps Engineer
+### 💻 Software Engineer | ☁️ DevOps Engineer
 
-I'm a Computer Science student passionate about building scalable software
-and automating deployment workflows.
+Computer Science student passionate about building scalable applications, solving problems, and automating software delivery.
 
-- 💻 Building full-stack applications with JavaScript, React & Node.js
-- ☁️ Working with AWS, Docker, Kubernetes & CI/CD
-- 🧠 Practicing DSA, Core CS & System Design
-- 🚀 Interested in Software Engineering, Cloud & DevOps
-- 🔎 Open to Software Engineer & DevOps internship opportunities
+* 💻 Full-Stack Development with **Java, React & Node.js**
+* ☁️ Cloud & DevOps with **AWS, Docker, Kubernetes & CI/CD**
+* 🧠 Practicing **DSA, Core CS & System Design**
+* 🚀 Building real-world projects and learning new technologies
+* 🔎 Open to **Software Engineer & DevOps internship opportunities**
+
+---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### 💻 Languages
 
-Java • JavaScript • C++ • SQL
+`Java` `JavaScript` `C++` `SQL`
 
-**Frontend**
+### 🎨 Frontend
 
-React.js • HTML • CSS • Tailwind CSS
+`React.js` `HTML5` `CSS3` `Tailwind CSS`
 
-**Backend**
+### ⚙️ Backend
 
-Node.js • Express.js • REST APIs • Socket.io
+`Node.js` `Express.js` `REST APIs` `Socket.io`
 
-**Database**
+### 🗄️ Database
 
-MongoDB • MySQL
+`MongoDB` `MySQL`
 
-**Cloud & Tools**
+### ☁️ Cloud & DevOps
 
-AWS • Docker • Git • GitHub • Jenkins • Linux
+`AWS` `Docker` `Kubernetes` `Jenkins` `Linux` `Git` `GitHub`
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 ConnectSphere
-Real-time video conferencing platform built with MERN, Socket.io and WebRTC.
+### 🔹 MERN E-Commerce Platform
 
-### 🔹 MERN E-Commerce
-Full-stack e-commerce application with authentication, product management and shopping features.
+**Full-Stack E-Commerce Application**
 
-### 🔹 AWS 3-Tier Architecture
-Designed and deployed a scalable 3-tier architecture using AWS VPC, EC2, RDS, Load Balancer and Auto Scaling.
+A complete e-commerce platform with user authentication, product management, shopping cart, orders and admin functionality.
 
-### 🔹 Django Notes App
-Deployed a Django application on AWS EC2 using Docker and Nginx.
+**Tech:** React • Node.js • Express • MongoDB
 
 ---
 
+### 🔹 AWS 3-Tier Architecture
+
+**Scalable Cloud Infrastructure**
+
+Designed and deployed a production-style 3-tier architecture using AWS VPC, EC2, RDS, Load Balancer, Auto Scaling, private subnets and NAT Gateway.
+
+**Tech:** AWS • VPC • EC2 • RDS • Load Balancer • Auto Scaling
+
+---
+
+### 🔹 Django Notes App
+
+**Cloud Deployment Project**
+
+Deployed a Django application on AWS EC2 using Docker and Nginx.
+
+**Tech:** Django • Docker • Nginx • AWS EC2 • Linux
+
+---
+
+### 🔹 Uber Clone
+
+**Ride Booking Application**
+
+A ride-booking application inspired by Uber, featuring user authentication, ride management and a responsive user interface.
+
+**Tech:** React • Node.js • Express • MongoDB
+
+---
+
+### 🔹 Phishing Detection Tool
+
+**Suspicious URL Detection Application**
+
+A web application designed to identify potentially suspicious and phishing URLs, helping users recognize unsafe links.
+
+**Tech:** React • JavaScript • CSS
+
+
+---
 
 ## 📊 GitHub Activity
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=rishikant0&show_icons=true&theme=dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=rishikant0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     alt="Rishikant's GitHub Stats"
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishikant0&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
 
 ---
-
-
 
 ## 🧠 LeetCode Journey
 
 <p align="center">
   <a href="https://leetcode.com/u/kumarrishikant660/">
-    <img src="https://leetcard.jacoblin.cool/kumarrishikant660?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
+    <img
+      src="https://leetcard.jacoblin.cool/kumarrishikant660?theme=dark&font=Baloo&ext=heatmap"
+      alt="LeetCode Stats"
+    />
   </a>
 </p>
 
 <p align="center">
   <a href="https://leetcode.com/u/kumarrishikant660/">
-    <img src="https://img.shields.io/badge/LeetCode-View%20Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
+    <img
+      src="https://img.shields.io/badge/LeetCode-View%20Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"
+      alt="View LeetCode Profile"
+    />
   </a>
 </p>
 
 <p align="center">
-  <i>Consistently solving problems, improving DSA skills, and preparing for Software Engineering interviews 🚀</i>
+  <i>🚀 Solving problems consistently and strengthening my DSA skills for Software Engineering interviews.</i>
 </p>
 
+---
 
+## 🤝 Connect With Me
 
-## 🔗 Connect With Me
+<p align="center">
+  <a href="https://github.com/rishikant0">
+    <img src="https://img.shields.io/badge/GitHub-rishikant0-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/rishikant-kumar-aa7bb3314">
+    <img src="https://img.shields.io/badge/LinkedIn-Rishikant%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/kumarrishikant660/">
+    <img src="https://img.shields.io/badge/LeetCode-kumarrishikant660-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/rishikant-kumar-aa7bb3314) •
-[GitHub](https://github.com/rishikant0)
+---
+
+<p align="center">
+  <b>💡 Build • Learn • Deploy • Repeat 🚀</b>
+</p>
