@@ -91,10 +91,19 @@ A web application designed to identify potentially suspicious and phishing URLs,
 
 ## 📊 GitHub Activity
 
+## 📊 GitHub Activity
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=rishikant0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    src="./profile/stats.svg"
     alt="Rishikant's GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="./profile/top-langs.svg"
+    alt="Top Languages"
   />
 </p>
 
