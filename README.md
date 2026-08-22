@@ -89,7 +89,6 @@ A web application designed to identify potentially suspicious and phishing URLs,
 
 ---
 
-## 📊 GitHub Activity
 
 ## 📊 GitHub Activity
 
@@ -107,12 +106,7 @@ A web application designed to identify potentially suspicious and phishing URLs,
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishikant0&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
+
 
 ---
 
