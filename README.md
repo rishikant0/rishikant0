@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm Rishikant Kumar 👋
 
-<!--
-**rishikant0/rishikant0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | DevOps Engineer
 
-Here are some ideas to get you started:
+I'm a B.Tech Computer Science student and aspiring Software Engineer who enjoys building real-world web applications and solving programming problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Building with **Java, JavaScript, React, Node.js & MongoDB**
+- 🚀 Interested in **Full-Stack Development & Cloud**
+- 🧠 Practicing **DSA, System Design & Core CS**
+- 🔨 Currently building and improving real-world projects
+- 📫 Open to **Internships & Software Engineering opportunities**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+Java • JavaScript • C++ • SQL
+
+**Frontend**
+
+React.js • HTML • CSS • Tailwind CSS
+
+**Backend**
+
+Node.js • Express.js • REST APIs • Socket.io
+
+**Database**
+
+MongoDB • MySQL
+
+**Cloud & Tools**
+
+AWS • Docker • Git • GitHub • Jenkins • Linux
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 ConnectSphere
+Real-time video conferencing platform built with MERN, Socket.io and WebRTC.
+
+### 🔹 MERN E-Commerce
+Full-stack e-commerce application with authentication, product management and shopping features.
+
+### 🔹 AWS 3-Tier Architecture
+Designed and deployed a scalable 3-tier architecture using AWS VPC, EC2, RDS, Load Balancer and Auto Scaling.
+
+### 🔹 Django Notes App
+Deployed a Django application on AWS EC2 using Docker and Nginx.
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishikant0&show_icons=true&theme=github_dark)
+
+---
+
+## 🔗 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/rishikant-kumar-aa7bb3314) •
+[GitHub](https://github.com/rishikant0)
