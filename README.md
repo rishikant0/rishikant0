@@ -68,9 +68,9 @@ Deployed a Django application on AWS EC2 using Docker and Nginx.
 
 ---
 
-### 🔹 Uber Clone
+### 🔹UberGo
 
-**Ride Booking Application**
+**Real-Time Ride Booking & Captain Management Platform**
 
 A ride-booking application inspired by Uber, featuring user authentication, ride management and a responsive user interface.
 
