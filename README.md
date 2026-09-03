@@ -136,7 +136,7 @@ A web application designed to identify potentially suspicious and phishing URLs,
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect With Me.
 
 <p align="center">
   <a href="https://github.com/rishikant0">
