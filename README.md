@@ -84,7 +84,7 @@ A ride-booking application inspired by Uber, featuring user authentication, ride
 
 A web application designed to identify potentially suspicious and phishing URLs, helping users recognize unsafe links.
 
-**Tech:** React • JavaScript • CSS
+**Tech:** React • JavaScript • Tailwind CSS
 
 
 ---
